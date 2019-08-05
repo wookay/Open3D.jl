@@ -1,0 +1,4 @@
+name = "Open3D"
+uuid = "e2fd5ce8-b77d-11e9-22da-2b1e1c650381"
+authors = ["WooKyoung Noh <wookay.noh@gmail.com>"]
+version = "0.1.0"
